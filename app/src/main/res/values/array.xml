@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="department">
+
+        <item>선택하세요</item>
+        <item>간호학</item>
+        <item>건축학</item>
+        <item>경영학</item>
+        <item>경제학</item>
+        <item>국어국문창작학</item>
+        <item>국제통상학</item>
+        <item>국제물류학</item>
+        <item>공연예술융합학</item>
+        <item>군사학</item>
+        <item>경찰학</item>
+        <item>건축공학</item>
+        <item>건설안전방재공학</item>
+        <item>건강운동관리학</item>
+        <item>글로벌문화콘텐츠학</item>
+        <item>러시아언어문화</item>
+        <item>물리치료학</item>
+        <item>물류유통학</item>
+        <item>법학</item>
+        <item>빅데이터사이언스</item>
+        <item>뷰티건강관리학</item>
+        <item>산업광고심리학</item>
+        <item>생명과학</item>
+        <item>신소재공학</item>
+        <item>소방방재학</item>
+        <item>서예디자인학</item>
+        <item>식품영양학</item>
+        <item>생활체육학</item>
+        <item>사회복지학</item>
+        <item>아동교육상담학</item>
+        <item>역사문화학</item>
+        <item>영상애니메이션학</item>
+        <item>안전융합</item>
+        <item>의료경영학</item>
+        <item>영어언어문화</item>
+        <item>일본언어문화</item>
+        <item>응용화학</item>
+        <item>응급구조학</item>
+        <item>임상병리학</item>
+        <item>중등특수교육</item>
+        <item>정보보안학</item>
+        <item>중국언어문화</item>
+        <item>정보전자통신공학</item>
+        <item>정치외교학</item>
+        <item>커뮤니케이션 디자인학</item>
+        <item>컴퓨터공학</item>
+        <item>토목공학</item>
+        <item>패션디자인비즈니스학</item>
+        <item>행정학</item>
+        <item>회계학</item>
+        <item>한의예</item>
+        <item>환경공학</item>
+        <item>IT소프트웨어공학</item>
+
+    </string-array>
+
+</resources>
